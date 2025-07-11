@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{04CD5611-1F40-4D32-BE02-CB5514A17E92}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04CD5611-1F40-4D32-BE02-CB5514A17E92}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\hp\\chetandata\\persistenttest\\librarymanagementsystem\\librarymanagementsystem\\models\\bookactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CD5611-1F40-4D32-BE02-CB5514A17E92}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\bookactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04CD5611-1F40-4D32-BE02-CB5514A17E92}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\hp\\chetandata\\persistenttest\\librarymanagementsystem\\librarymanagementsystem\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04CD5611-1F40-4D32-BE02-CB5514A17E92}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,37 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookActionRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BookActionRequest.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\BookActionRequest.cs",
-              "ToolTip": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BookActionRequest.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Models\\BookActionRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T04:17:28.888Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwA8AAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T04:14:53.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Role.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Role.cs",
@@ -77,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Transactions.cs",
               "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Transactions.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Transactions.cs",
@@ -90,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Users.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Users.cs",
@@ -103,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Books.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Books.cs",
               "ToolTip": "C:\\Users\\hp\\ChetanData\\PersistentTest\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Books.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Books.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T16:39:35.592Z",
               "EditorCaption": ""
